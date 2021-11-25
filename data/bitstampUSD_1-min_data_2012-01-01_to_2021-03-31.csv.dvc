@@ -1,0 +1,4 @@
+outs:
+- md5: e3c5a5a01ee8fbbcfc824caf1df5a9e6
+  size: 317526599
+  path: bitstampUSD_1-min_data_2012-01-01_to_2021-03-31.csv
